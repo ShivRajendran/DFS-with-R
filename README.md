@@ -2,9 +2,13 @@
 Using Rvest and Analytical tools in R to analyze Daily Fantasy Basketball trends
 
 -I would use the DFS scraper to scrape web data into a csv.
+
 -In the csv i would clean up data and delete rows and players I dont need
+
 -Then I would sort the csv in alphabetical order by player name.
+
 -The data necesaary is fantasy points, so following Fanduels Fantasy scoring, 
+
 -I would calculate historical data of each players fantasy game logs.
 
 ----------------
